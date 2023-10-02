@@ -1,0 +1,108 @@
+
+
+
+body {
+    background: linear-gradient(to left, #000000 75%, #fc8019 75%);
+    height: 100vh; /* Adjust as needed */
+    margin: 0; /* Remove default margin */
+    width: 100vh;
+  }
+
+  
+nav{
+    display: flex;
+    width: 200%;
+    margin-left: 0px;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+nav .logo{
+    width: 90px;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 10px 10px;
+    
+   
+
+}
+
+a{
+    color: yellow;
+}
+
+
+nav ul li a {
+    margin-right: 10px;
+    padding: 10px;
+      display: flex;
+      justify-content: flex-end;
+
+}
+
+.b{
+    margin-right: -88px;
+}
+
+.rai{
+    display: flex;
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+    
+    margin:-300px ; /* Remove default margin on body */
+    color: antiquewhite;
+    padding: 20px;
+    margin-left: 400px;
+    font-style: italic;
+  }
+
+  h1{
+    display: flex;
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+    
+    margin:-300px ; /* Remove default margin on body */
+    color: #fc8019;
+    padding: 20px;
+    margin-left: 460px;
+    margin-top: 280px;
+    font-weight: bolder;
+    font-size: 50px;
+  }
+
+  h2{
+    display: flex;
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+    
+    margin:-300px ; /* Remove default margin on body */
+    color: antiquewhite;
+    padding: 20px;
+    margin-left: 460px;
+    font-style: italic;
+    margin-top: 280px;
+
+  }
+
+  button{
+    display: flex;
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+    
+    margin:-300px ; /* Remove default margin on body */
+    color: white;
+    padding: 20px;
+    margin-left: 550px;
+    height: 0px;
+    width: 150px;
+    border-radius: 20px;
+    margin-top: 300px;
+    background-color: #000000;
+    border: 2px solid;
+
+  }
+  
+  
